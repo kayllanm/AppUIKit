@@ -9,7 +9,7 @@ export default function App() {
       <Text>Open up App.js to start working on your app!</Text>
       <TouchableOpacity
           onPress={() => alert('Hello, world!')}
-          style={{ backgroundColor: 'blue' }}>
+          style={{ backgroundColor: 'red' }}>
         <Text style={{ fontSize: 20, color: '#fff' }}>Pick a photo</Text>
       </TouchableOpacity>
     </View>
